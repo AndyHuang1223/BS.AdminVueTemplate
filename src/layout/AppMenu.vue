@@ -73,6 +73,11 @@ const model = ref([
                 label: 'Empty',
                 icon: 'pi pi-fw pi-circle-off',
                 to: '/pages/empty'
+            },
+            {
+                label: '北風Shippers',
+                icon: 'pi pi-fw pi-list-check',
+                to: '/pages/shippers'
             }
         ]
     },
