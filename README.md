@@ -18,7 +18,7 @@ npm install
 
 ```
 # Backend API Host.
-VITE_API_HOST = 'https://localhost:7069'
+VITE_API_HOST = https://localhost:7069
 ```
 
 4. Run in development environment.
