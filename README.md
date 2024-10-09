@@ -25,7 +25,12 @@ VITE_API_HOST = https://localhost:7069
 ```bash
 npm run dev
 ``` 
-5. Deploy for production
+5. Deploy for production.
+Create `.env.production` file (if need), setup `VITE_API_HOST`.
+```
+# Backend API Host.
+VITE_API_HOST = https://exampele.com
+```
 ```bash
 npm run build
 ```
